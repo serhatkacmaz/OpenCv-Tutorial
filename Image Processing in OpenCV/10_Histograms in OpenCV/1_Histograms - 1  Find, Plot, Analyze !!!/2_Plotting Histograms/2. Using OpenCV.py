@@ -1,0 +1,1 @@
+#  Check the code at samples/python/hist.py.
